@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact Me</title>
+  <script>
+    window.onload = function() {
+      window.location.href = "mailto:noeperezblanco1992@gmail.com";
+    };
+  </script>
+</head>
+<body>
+  <p>Redireccionando a Gmail...</p>
+</body>
+</html>
